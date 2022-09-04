@@ -9,8 +9,8 @@ Analyzing Bikeshare Data from Chicago, New York City and Washington
 ### Description
 The project is a **Python script** that allow users to analyze **bikeshare data** from the cities of Chicago, New York City and Washington. The project provides for extensive **user input**. Users decide about about the city, month and day of the week they want to analyse. They can decide on whether they want to see raw data, and how much. In a second part the project displays **key metrics** on the stations used, the times and the users.
 
-### Files used
-Include the files used
+### Installation and Files used
+User needs to import libraries/packages: numpy, nandas, time and datetime. CVS files for the cities need to be in the same folder.
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
