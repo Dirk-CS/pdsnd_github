@@ -1,1 +1,2 @@
-.github/**
+#ignore cdv-files containing the data
+*.csv
