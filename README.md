@@ -7,7 +7,7 @@ The bikeshare project was created on August 28, 2022; the README file on Septemb
 Analyzing Bikeshare Data from Chicago, New York City and Washington
 
 ### Description
-Describe what your project is about and what it does
+The project is a **Python script** that allow users to analyze **bikeshare data** from the cities of Chicago, New York City and Washington. The project provides for extensive **user input**. Users decide about about the city, month and day of the week they want to analyse. They can decide on whether they want to see raw data, and how much. In a second part the project displays **key metrics** on the stations used, the times and the users.
 
 ### Files used
 Include the files used
