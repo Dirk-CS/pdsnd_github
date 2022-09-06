@@ -14,3 +14,5 @@ The project is a **Python script** that allow users to analyze **bikeshare data*
 - User needs to import libraries/packages: numpy, nandas, time and datetime. 
 - CVS files for the cities need to be in the same folder. 
 
+## License
+- The script is open source, it can be used and copied by anyone interested.
