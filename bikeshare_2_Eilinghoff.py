@@ -9,7 +9,7 @@ CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
               'washington': 'washington.csv' }
 
-#name filter options globally in case additonal data will be provided
+#name filter options
 filter_options = {
     'city': ['chicago', 'new york city', 'washington'], 
     'month': ['all', 'january', 'february', 'march', 'april', 'may', 'june'],
