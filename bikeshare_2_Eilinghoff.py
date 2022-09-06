@@ -12,7 +12,7 @@ CITY_DATA = { 'chicago': 'chicago.csv',
 #name filter options
 filter_options = {
     'city': ['chicago', 'new york city', 'washington'], 
-    'month': ['all', 'january', 'february', 'march', 'april', 'may', 'june'],
+    'month': ['all', 'january', 'february', 'march', 'april', 'may', 'june', 'juli', 'august'],
     'day':  ['all', 'monday', 'tuesday', 'wednesday', 'thursday', 'friday', 'saturday', 'sunday']
     }
 
